@@ -1,5 +1,5 @@
 # 100 Days of Machine Learning
-![](/s.png)
+![](/images/ml.png)
 
 ## Day 1 
 
