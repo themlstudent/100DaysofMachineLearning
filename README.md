@@ -54,7 +54,7 @@ A while loop statement in Python programming language repeatedly executes a targ
           In Python, all the statements indented by the same number of character spaces after a programming construct are considered to be part of 
           a single block of code. Python uses indentation as its method of grouping statements.
 
-#### 2.For Loop
+#### 2. For Loop
 It has the ability to iterate over the items of any sequence, such as a list or a string.
 
             Syntax
@@ -63,6 +63,16 @@ It has the ability to iterate over the items of any sequence, such as a list or 
            If a sequence contains an expression list, it is evaluated first. Then, the first item in the sequence is assigned to the iterating variable iterating_var. 
            Next, the statements block is executed. Each item in the list is assigned to iterating_var, and the statement(s) block is executed until the entire
            sequence is exhausted.
+#### 3.Decision Making 
+
+Decision making is anticipation of conditions occurring while execution of the program and specifying actions taken according to the conditions.
+
+Decision structures evaluate multiple expressions which produce TRUE or FALSE as outcome. You need to determine which action to take and which statements to execute 
+if outcome is TRUE or FALSE otherwise.
+
+Example: If Else statement       
+                         
+           
 ## Day 3
 
 ## Day 4 
