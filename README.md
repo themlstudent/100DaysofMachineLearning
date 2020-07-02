@@ -30,6 +30,31 @@ Lists are great to use when you want to work with many related values. They enab
 
 When thinking about Python lists and other data structures that are types of collections, it is useful to consider all the different collections you have on your computer: your assortment of files, your song playlists, your browser bookmarks, your emails, the collection of videos you can access on a streaming service, and more.
 
+#### About Loops
+In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on. There may be a situation when you need to execute a block of code several number of times.
+
+Programming languages provide various control structures that allow for more complicated execution paths.
+
+A loop statement allows us to execute a statement or group of statements multiple times. The following diagram illustrates a loop statement −
+
+![](/images/Loop1.png)
+
+#### Types Of loop in python:
+#### 1. While Loop
+A while loop statement in Python programming language repeatedly executes a target statement as long as a given condition is true.
+
+               Syntax
+                 The syntax of a while loop in Python programming language is −
+
+                 while expression:
+                  statement(s)
+                   Here, statement(s) may be a single statement or a block of statements. The condition may be any expression, and true is any non-zero value. The loop iterates                     while the condition is true.
+
+                     When the condition becomes false, program control passes to the line immediately following the loop.
+
+                 In Python, all the statements indented by the same number of character spaces after a programming construct are considered to be part of a single block of                   code. Python uses indentation as its method of grouping statements.
+
+
 ## Day 3
 
 ## Day 4 
