@@ -43,18 +43,26 @@ A loop statement allows us to execute a statement or group of statements multipl
 #### 1. While Loop
 A while loop statement in Python programming language repeatedly executes a target statement as long as a given condition is true.
 
-                 Syntax
-                 The syntax of a while loop in Python programming language is −
-                 while expression:
-                 statement(s)
+          Syntax
+          The syntax of a while loop in Python programming language is −
+          while expression:
+          statement(s)
                  
-                 Here, statement(s) may be a single statement or a block of statements. The condition may be any expression, and true is any non-zero value. 
-                 The loop iterates while the condition is true.
-                 When the condition becomes false, program control passes to the line immediately following the loop.
-                 In Python, all the statements indented by the same number of character spaces after a programming construct are considered to be part of 
-                 a single block of code. Python uses indentation as its method of grouping statements.
+          Here, statement(s) may be a single statement or a block of statements. The condition may be any expression, and true is any non-zero value. 
+          The loop iterates while the condition is true.
+          When the condition becomes false, program control passes to the line immediately following the loop.
+          In Python, all the statements indented by the same number of character spaces after a programming construct are considered to be part of 
+          a single block of code. Python uses indentation as its method of grouping statements.
 
+#### 2.For Loop
+It has the ability to iterate over the items of any sequence, such as a list or a string.
 
+            Syntax
+           for iterating_var in sequence:
+           statements(s)
+           If a sequence contains an expression list, it is evaluated first. Then, the first item in the sequence is assigned to the iterating variable iterating_var. 
+           Next, the statements block is executed. Each item in the list is assigned to iterating_var, and the statement(s) block is executed until the entire
+           sequence is exhausted.
 ## Day 3
 
 ## Day 4 
