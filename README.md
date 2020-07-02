@@ -92,7 +92,22 @@ The key takeaway is that objects are at the center of the object-oriented progra
 #### About Exception Handling
 
 Error in Python can be of two types i.e. Syntax errors and Exceptions. Errors are the problems in a program due to which the program will stop the execution. On the other hand, exceptions are raised when some internal events occur which changes the normal flow of the program.
-## Day 4 
+# Day 4 
+### Working Started With Numpy 
+
+NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays.
+
+It is the fundamental package for scientific computing with Python. It contains various features including these important ones:
+<ul>
+          <li>A powerful N-dimensional array object</li>
+<li>Sophisticated (broadcasting) functions</li>
+<li>Tools for integrating C/C++ and Fortran code</li>
+<li>Useful linear algebra, Fourier transform, and random number capabilities</li>
+<li>Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data.</li>
+<li>Arbitrary data-types can be defined using Numpy which allows NumPy to seamlessly and speedily integrate with a wide variety of databases.</li>
+          </ul>
+
+
 
 ## Day 5
 
