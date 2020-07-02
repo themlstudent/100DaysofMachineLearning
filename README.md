@@ -142,8 +142,9 @@ Data mining is a particular data analysis technique that focuses on statistical 
 
 #### Data analysis is a somewhat abstract concept to understand without the help of examples. So to better illustrate how and why data analysis is important for businesses, here are the 4 types of data analysis and examples of each.
 <ul>
-<li>**Descriptive Analysis:**Descriptive data analysis looks at past data and tells what happened. This is often used when tracking Key Performance Indicators (KPIs), revenue, sales leads, and more.</li>
+<li>** Descriptive Analysis: **Descriptive data analysis looks at past data and tells what happened. This is often used when tracking Key Performance Indicators (KPIs), revenue, sales leads, and more.</li>
 <li>Diagnostic Analysis: Diagnostic data analysis aims to determine why something happened. Once your descriptive analysis shows that something negative or positive happened, diagnostic analysis can be done to figure out the reason. A business may see that leads increased in the month of October and use diagnostic analysis to determine which marketing efforts contributed the most.</li>
 <li>Predictive Analysis: Predictive data analysis predicts what is likely to happen in the future. In this type of research, trends are derived from past data which are then used to form predictions about the future. For example, to predict next year’s revenue, data from previous years will be analyzed. If revenue has gone up 20% every year for many years, we would predict that revenue next year will be 20% higher than this year. This is a simple example, but predictive analysis can be applied to much more complicated issues such as risk assessment, sales forecasting, or qualifying leads.</li>
 <li>Prescriptive Analysis: Prescriptive data analysis combines the information found from the previous 3 types of data analysis and forms a plan of action for the organization to face the issue or decision. This is where the data-driven choices are made.</li>
 </ul>          
+** hii **
