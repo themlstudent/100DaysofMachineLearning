@@ -93,7 +93,8 @@ The key takeaway is that objects are at the center of the object-oriented progra
 
 Error in Python can be of two types i.e. Syntax errors and Exceptions. Errors are the problems in a program due to which the program will stop the execution. On the other hand, exceptions are raised when some internal events occur which changes the normal flow of the program.
 # Day 4 
-### Working Started With Numpy 
+### Working Started With Numpy Library. 
+![](/images/np.png)
 
 NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays.
 
@@ -107,8 +108,28 @@ It is the fundamental package for scientific computing with Python. It contains 
 <li>Arbitrary data-types can be defined using Numpy which allows NumPy to seamlessly and speedily integrate with a wide variety of databases.</li>
           </ul>
 
+# Day 5
+### Working Started with Pandas Library.
+![](/images/pd.png)
+Pandas is an open-source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures. The name Pandas is derived from the word Panel Data – an Econometrics from Multidimensional data.
 
+In 2008, developer Wes McKinney started developing pandas when in need of high performance, flexible tool for analysis of data.
 
-## Day 5
+Prior to Pandas, Python was majorly used for data munging and preparation. It had very little contribution towards data analysis. Pandas solved this problem. Using Pandas, we can accomplish five typical steps in the processing and analysis of data, regardless of the origin of data — load, prepare, manipulate, model, and analyze.
+
+Python with Pandas is used in a wide range of fields including academic and commercial domains including finance, economics, Statistics, analytics, etc.
+
+#### Key Features of Pandas
+<ul>
+          <li>Fast and efficient DataFrame object with default and customized indexing.</li>
+<li>Tools for loading data into in-memory data objects from different file formats.</li>
+<li>Data alignment and integrated handling of missing data.</li>
+<li>Reshaping and pivoting of date sets.</li>
+<li>Label-based slicing, indexing and subsetting of large data sets.</li>
+<li>Columns from a data structure can be deleted or inserted.</li>
+<li>Group by data for aggregation and transformations.</li>
+<li>High performance merging and joining of data.</li>
+<li>Time Series functionality.</li>
+          </ul>
 
 ## Day 6 
