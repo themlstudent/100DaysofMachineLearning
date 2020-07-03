@@ -20,27 +20,34 @@ The Python 2 language was officially discontinued in 2020 (first planned for 201
 Python interpreters are available for many operating systems. A global community of programmers develops and maintains CPython, an open source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development.
 #### Learning Resources for Python:
 ##### Video Lectures for Beginner to Intermediate:
- 1.[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+ 1. [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
  
- 2.[Python Tutorial for Beginners by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+ 2. [Python Tutorial for Beginners by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
  
-3.[Complete Python tutorial in Hindi (2020) by 
+3. [Complete Python tutorial in Hindi (2020) by 
   Harshit vashisth](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
   
-4.[Python Tutorial For Beginners | Python Full Course From Scratch | Python Programming | Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw&t=1689s)  
+4. [Python Tutorial For Beginners | Python Full Course From Scratch | Python Programming | Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw&t=1689s)  
 
-5.[Python Tutorial - Python for Beginners [Full Course] by  Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=121s)
+5. [Python Tutorial - Python for Beginners [Full Course] by  Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=121s)
 
 #### Advance videos Lecture on Python :
 
-6.[Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+6. [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
-7.[Python Tutorial BY Real Python ](https://www.youtube.com/c/realpython/playlists)
+7. [Python Tutorial BY Real Python ](https://www.youtube.com/c/realpython/playlists)
 
-8.[Complete Python Course - Beginner to Advanced || Python Programming Full Course by Geek lesson](https://www.youtube.com/watch?v=PJlAnR3asGQ)
+8. [Complete Python Course - Beginner to Advanced || Python Programming Full Course by Geek lesson](https://www.youtube.com/watch?v=PJlAnR3asGQ)
 
 #### Website to Learn Python:
-1.[Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/)
+
+1. [Python Programming Language by Geeks For Geeks ](https://www.geeksforgeeks.org/python-programming-language/)
+
+2. [w3schools](https://www.w3schools.com/python/)
+
+3. []()
+
+4. []()
 
 # Day 2
 
