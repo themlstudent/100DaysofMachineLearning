@@ -33,7 +33,7 @@ Python interpreters are available for many operating systems. A global community
 
 #### Advance videos Lecture on Python :
 
-6. [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+6. [Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 7. [Python Tutorial BY Real Python ](https://www.youtube.com/c/realpython/playlists)
 
@@ -125,7 +125,7 @@ if outcome is TRUE or FALSE otherwise.
 
 Example: If Else statement       
 
-### Books to Learn Python:
+# Books to Learn Python:
 
 #### Python Books for Beginners:
 
@@ -149,7 +149,7 @@ Example: If Else statement
 
 4. Effective Python by By Brett Slatkin (Addison-Wesley, 2019)
 
-#####  For Learning this you can Prefer the Links that I have provided in Day 1 Section.
+## For Learning this you can Prefer the Links that I have provided in Day 1 Section.
            
 # Day 3
 
@@ -172,7 +172,7 @@ The key takeaway is that objects are at the center of the object-oriented progra
 
 Error in Python can be of two types i.e. Syntax errors and Exceptions. Errors are the problems in a program due to which the program will stop the execution. On the other hand, exceptions are raised when some internal events occur which changes the normal flow of the program.
 
-#### For Learning this you can Prefer the Links that I have provided in Day 1 Section.
+## For Learning this you can Prefer the Links that I have provided in Day 1 Section.
 
 # Day 4 
 
