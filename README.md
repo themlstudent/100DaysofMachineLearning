@@ -51,7 +51,7 @@ Python interpreters are available for many operating systems. A global community
 
 5. [Java Point](https://www.javatpoint.com/python-tutorial)
 
-#### If You are Looking For Certification Course for python :
+#### If You are Looking For Certification Courses for python you can check courses :
 
 1. [Complete Python Bootcamp: Go from zero to hero in Python 3 by udemy](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-HEJWe5B_MVUsZF70QI3LvQ&LSNPUBID=jU79Zysihs4&utm_source=aff-campaign&utm_medium=udemyads)
 
@@ -68,9 +68,13 @@ Python for Everybody Specialization (Coursera)](https://www.coursera.org/special
 
 7. [Professional Certificate in Introduction to Python Programming (EdX)](https://www.edx.org/professional-certificate/introduction-to-python-programming?source=aw&awc=6798_1553634667_0b92dfd853d04ef1f7a2a9095d6bb7ea)
 
+#### You Can Refer python Website to Learn more about Python.
+
+  [Python org](https://wiki.python.org/moin/BeginnersGuide)
+
 # Day 2
 
-### Working on List , Loops.
+### Working on List ,Loops and Data Stucture.
 #### About List
 
 A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. Each element or value that is inside of a list is called an item. Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ].
@@ -120,9 +124,35 @@ Decision structures evaluate multiple expressions which produce TRUE or FALSE as
 if outcome is TRUE or FALSE otherwise.
 
 Example: If Else statement       
-                         
+
+### Books to Learn Python:
+
+#### Python Books for Beginners:
+
+1.  Python Crash Course: A Hands-On, Project-Based Introduction to Programming (2nd Edition)
+
+2.  Head-First Python: A Brain-Friendly Guide (2nd Edition)
+
+3. Learn Python the Hard Way: 3rd Edition 
+
+4. Invent Your Own Computer Games with Python, 4th edition , Al Sweigart (No Starch, 2017).
+
+5. Think Python: How to Think Like a Computer Scientist, 2nd edition ,Allen B. Downey (O’Reilly, 2015).
+
+#### Python Books for Intermediates/Experts:
+
+1. Fluent Python: Clear, Concise, and Effective Programming, Luciano Ramalho (O’Reilly, 2014).
+
+2. Python Cookbook: Recipes for Mastering Python 3 (3rd Edition)
+
+3.Programming Python: Powerful Object-Oriented Programming (4th Edition)
+
+4. Effective Python by By Brett Slatkin (Addison-Wesley, 2019)
+
+#####  For Learning this you can Prefer the Links that I have provided in Day 1 Section.
            
 # Day 3
+
 ### Working on Function ,Object Oriented Programming ,Exception Handling.
 
 #### About Function 
@@ -141,8 +171,13 @@ The key takeaway is that objects are at the center of the object-oriented progra
 #### About Exception Handling
 
 Error in Python can be of two types i.e. Syntax errors and Exceptions. Errors are the problems in a program due to which the program will stop the execution. On the other hand, exceptions are raised when some internal events occur which changes the normal flow of the program.
+
+#### For Learning this you can Prefer the Links that I have provided in Day 1 Section.
+
 # Day 4 
+
 ### Working Started With Numpy Library. 
+
 ![](/images/np.png)
 
 NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays.
