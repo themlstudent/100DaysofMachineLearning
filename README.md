@@ -45,9 +45,12 @@ Python interpreters are available for many operating systems. A global community
 
 2. [w3schools](https://www.w3schools.com/python/)
 
-3. []()
+3. [Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
 
-4. []()
+4. [Learn Python](https://www.learnpython.org/)
+
+5. [Java Point](https://www.javatpoint.com/python-tutorial)
+
 
 # Day 2
 
