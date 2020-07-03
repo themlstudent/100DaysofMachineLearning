@@ -20,7 +20,10 @@ The Python 2 language was officially discontinued in 2020 (first planned for 201
 Python interpreters are available for many operating systems. A global community of programmers develops and maintains CPython, an open source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development.
 #### Learning Resources for Python:
 ##### Video Lectures:
-     1.[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+ 1.[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+ 2.[Python Tutorial for Beginners by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+3.[Complete Python tutorial in Hindi (2020) by 
+  Harshit vashisth](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 # Day 2
 
 ### Working on List , Loops.
