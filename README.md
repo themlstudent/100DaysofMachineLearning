@@ -237,4 +237,4 @@ Data mining is a particular data analysis technique that focuses on statistical 
 <li>Prescriptive Analysis: Prescriptive data analysis combines the information found from the previous 3 types of data analysis and forms a plan of action for the organization to face the issue or decision. This is where the data-driven choices are made.</li>
 </ol>          
 
-__ hii __
+
