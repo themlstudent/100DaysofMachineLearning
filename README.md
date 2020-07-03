@@ -61,7 +61,8 @@ Python interpreters are available for many operating systems. A global community
 
 4. [Python For Developers by coding Blocks ](https://online.codingblocks.com/courses/python-for-beginners-developers)
 
-5. [Python for Everybody Specialization Coursera](https://www.coursera.org/specializations/python?siteID=QooaaTZc0kM- cz49NfSs6vF.TNEFz5tEXA&utm_content=3&utm_medium=partners&utm_source=linkshare&utm_campaign=QooaaTZc0kM)
+5. [
+Python for Everybody Specialization (Coursera)](https://www.coursera.org/specializations/python?siteID=QooaaTZc0kM-cz49NfSs6vF.TNEFz5tEXA&utm_content=3&utm_medium=partners&utm_source=linkshare&utm_campaign=QooaaTZc0kM)
 
 6. [Python 3 Programming Specialization (Coursera)](https://www.coursera.org/specializations/python-3-programming?siteID=QooaaTZc0kM-cz49NfSs6vF.TNEFz5tEXA&utm_content=3&utm_medium=partners&utm_source=linkshare&utm_campaign=QooaaTZc0kM)
 
