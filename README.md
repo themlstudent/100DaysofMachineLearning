@@ -18,7 +18,9 @@ Python 3.0, released in 2008, was a major revision of the language that is not c
 The Python 2 language was officially discontinued in 2020 (first planned for 2015), and "Python 2.7.18 is the last Python 2.7 release and therefore the last Python 2 release."[30] No more security patches or other improvements will be released for it.With Python 2's end-of-life, only Python 3.5. and later are supported.
 
 Python interpreters are available for many operating systems. A global community of programmers develops and maintains CPython, an open source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development.
-
+#### Learning Resources for Python:
+##### Video Lectures:
+     1.[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 # Day 2
 
 ### Working on List , Loops.
