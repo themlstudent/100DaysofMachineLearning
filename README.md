@@ -235,11 +235,13 @@ Data mining is a particular data analysis technique that focuses on statistical 
 <li>Predictive Analysis: Predictive data analysis predicts what is likely to happen in the future. In this type of research, trends are derived from past data which are then used to form predictions about the future. For example, to predict next year’s revenue, data from previous years will be analyzed. If revenue has gone up 20% every year for many years, we would predict that revenue next year will be 20% higher than this year. This is a simple example, but predictive analysis can be applied to much more complicated issues such as risk assessment, sales forecasting, or qualifying leads.</li>
 
 <li>Prescriptive Analysis: Prescriptive data analysis combines the information found from the previous 3 types of data analysis and forms a plan of action for the organization to face the issue or decision. This is where the data-driven choices are made.</li>
-</ol>        
-### I have Started Learning the book Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython Book by Wes McKinney.
+</ol>   
+
+####  I have Started Learning the book Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython Book by Wes McKinney.
+
 ![](/images/dap.png)
 
-Python for Data Analysis[](https://www.amazon.in/Python-Data-Analysis-W-Mckinney/dp/9351100065)
+[Python for Data Analysis](https://www.amazon.in/Python-Data-Analysis-W-Mckinney/dp/9351100065)
 
 # Day 7
 ![](/images/daa.png)
