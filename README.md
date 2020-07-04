@@ -149,7 +149,7 @@ Example: If Else statement
 
 4. Effective Python by By Brett Slatkin (Addison-Wesley, 2019)
 
-## For Learning Day 2  you can Prefer the Links that I have provided in Day 1 Section.
+#### For Learning Day 2  you can Prefer the Links that I have provided in Day 1 Section.
            
 # Day 3
 
@@ -172,7 +172,7 @@ The key takeaway is that objects are at the center of the object-oriented progra
 
 Error in Python can be of two types i.e. Syntax errors and Exceptions. Errors are the problems in a program due to which the program will stop the execution. On the other hand, exceptions are raised when some internal events occur which changes the normal flow of the program.
 
-## For Learning Day 3 you can Prefer the Links that I have provided in Day 1 Section.
+#### For Learning Day 3 you can Prefer the Links that I have provided in Day 1 Section.
 
 # Day 4 
 
@@ -191,6 +191,12 @@ It is the fundamental package for scientific computing with Python. It contains 
 <li>Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data.</li>
 <li>Arbitrary data-types can be defined using Numpy which allows NumPy to seamlessly and speedily integrate with a wide variety of databases.</li>
           </ul>
+#### Learning Resources for Numpy :
+ 1. [Numpy Tutorial by Keith Galli](https://www.youtube.com/watch?v=GB9ByFAIAH4)
+ 
+ 2. [Numpy Tutorial By Tutorials Point ](https://www.tutorialspoint.com/numpy/index.htm)
+ 
+ 3. [Numpty org ](https://numpy.org/)
 
 # Day 5
 ### Working Started with Pandas Library.
@@ -215,6 +221,16 @@ Python with Pandas is used in a wide range of fields including academic and comm
 <li>High performance merging and joining of data.</li>
 <li>Time Series functionality.</li>
           </ul>
+          
+#### Learning Resources for Pandas : 
+
+1. [Pandas Tutorial by Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg&t=1693s)
+
+2. [Pandas Tutorial by Geeks for Geeks](https://www.geeksforgeeks.org/pandas-tutorial/)
+
+3. [Pandas Org](https://pandas.pydata.org/)
+
+4. [Pandas Tutorial by Tutorials Point ](https://www.tutorialspoint.com/python_pandas/index.htm)
 
 # Day 6 
 ### Working With Data Analysis:
@@ -238,8 +254,6 @@ Data mining is a particular data analysis technique that focuses on statistical 
 </ol>   
 
 ####  I have Started Learning the book Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython Book by Wes McKinney.
-
-![](/images/dap.png)
 
 [Python for Data Analysis](https://www.amazon.in/Python-Data-Analysis-W-Mckinney/dp/9351100065)
 
@@ -298,7 +312,6 @@ The Python library of Altair is a declarative statistical visualization library 
 # Day 8 
 
 ### Working on Real World Data :
-
-![](/images/pa.png)
 I started Learning Pandas Cookbook : Recipes for Scientific Computing, Time Series Analysis and Data Visualization Using Python Book by Theodore Petrou.
+
 [Pandas Cookbook](https://www.amazon.in/Pandas-Cookbook-Theodore-Petrou/dp/1784393878)
