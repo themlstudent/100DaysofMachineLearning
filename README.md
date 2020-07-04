@@ -191,7 +191,8 @@ It is the fundamental package for scientific computing with Python. It contains 
 <li>Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data.</li>
 <li>Arbitrary data-types can be defined using Numpy which allows NumPy to seamlessly and speedily integrate with a wide variety of databases.</li>
           </ul>
-#### Learning Resources for Numpy :
+### Learning Resources for Numpy :
+
  1. [Numpy Tutorial by Keith Galli](https://www.youtube.com/watch?v=GB9ByFAIAH4)
  
  2. [Numpy Tutorial By Tutorials Point ](https://www.tutorialspoint.com/numpy/index.htm)
