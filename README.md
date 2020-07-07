@@ -323,3 +323,14 @@ Working with data is not easy because we have large amount of data nowdays and g
 
 
 Today I learned about some plotting technique about 3D plotting,map plotting and much more.
+
+# Day 10
+
+Today I learned about Machine Learning that what is Machine Learning ,why we use machine Learning,where we use machine learning and how we are using machine learning nowdays.
+ 
+### About Machine Learning :
+
+1. [AI in Radiology](https://www.doc.ic.ac.uk/~jce317/history-machine-learning.html)
+
+2. [DATAVERSITY](https://www.dataversity.net/a-brief-history-of-machine-learning/)
+
