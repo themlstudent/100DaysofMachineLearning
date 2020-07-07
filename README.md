@@ -339,3 +339,5 @@ Today I learned about Machine Learning that what is Machine Learning ,why we use
 4. [EROGOL](https://erogol.com/brief-history-machine-learning/)
 
 5. [ML PLATFORM](https://mlplatform.nl/what-is-machine-learning/)
+
+# Day 11 
