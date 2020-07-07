@@ -334,3 +334,8 @@ Today I learned about Machine Learning that what is Machine Learning ,why we use
 
 2. [DATAVERSITY](https://www.dataversity.net/a-brief-history-of-machine-learning/)
 
+3. [Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+
+4. [EROGOL](https://erogol.com/brief-history-machine-learning/)
+
+5. [ML PLATFORM](https://mlplatform.nl/what-is-machine-learning/)
