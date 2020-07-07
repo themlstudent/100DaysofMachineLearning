@@ -320,6 +320,6 @@ I started Learning Pandas Cookbook : Recipes for Scientific Computing, Time Seri
 # Day 9
 
 Working with data is not easy because we have large amount of data nowdays and getting insight of data and finding the meaningful pattern it is not easy, that's why we use plotting tool's so much in the field Machine Learning and Data science nowdays.By the help of plotting tool's we can understand so many things about data.
-.
-.
+
+
 Today I learned about some plotting technique about 3D plotting,map plotting and much more.
