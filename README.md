@@ -341,3 +341,5 @@ Today I learned about Machine Learning that what is Machine Learning ,why we use
 5. [ML PLATFORM](https://mlplatform.nl/what-is-machine-learning/)
 
 # Day 11 
+
+# Day 12 
