@@ -333,10 +333,17 @@ Today I learned about some plotting technique about 3D plotting,map plotting and
 
 
 # Day 10
+![](/images/ML1.png)
 
 Today I learned about Machine Learning that what is Machine Learning ,why we use machine Learning,where we use machine learning and how we are using machine learning nowdays.
  
 ### About Machine Learning :
+
+Machine learning (ML) is the study of computer algorithms that improve automatically through experience.[1][2] It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.[3] Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop conventional algorithms to perform the needed tasks.
+
+Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning.[5][6] In its application across business problems, machine learning is also referred to as predictive analytics.
+
+### Check out this amazing website to learn machine learning 
 
 1. [AI in Radiology](https://www.doc.ic.ac.uk/~jce317/history-machine-learning.html)
 
@@ -359,26 +366,10 @@ Today I learned about Machine Learning that what is Machine Learning ,why we use
    Supervised learning is when the model is getting trained on a labelled dataset. Labelled dataset is one which have both input and output parameters. 
    In this type of  learning both training and validation datasets are labelled as shown in the figures below.
  
-  ![](/images/sl2.png)
+  ![](/images/sl4.png)
  
-Both the above figures have labelled data set –
 
-Figure A: It is a dataset of a shopping store which is useful in predicting whether a customer will purchase a particular product under consideration or not based on his/ her gender, age and salary.
 
-Input : Gender, Age, Salary
-
-Output : Purchased i.e. 0 or 1 ; 1 means yes the customer will purchase and 0 means that customer won’t purchase it.
-
-Figure B: It is a Meteorological dataset which serves the purpose of predicting wind speed based on different parameters.
-
-Input : Dew Point, Temperature, Pressure, Relative Humidity, Wind Direction
-
-Output : Wind Speed
-
-### Training the system:
-
-While training the model, data is usually split in the ratio of 80:20 i.e. 80% as training data and rest as testing data. In training data, we feed input as well as output for 80% data. The model learns from training data only. We use different machine learning algorithms(which we will discuss in detail in the next articles) to build our model. By learning, it means that the model will build some logic of its own.
-Once the model is ready then it is good to be tested. At the time of testing, the input is fed from the remaining 20% data which the model has never seen before, the model will predict some value and we will compare it with actual output and calculate the accuracy.
 
 ### Types Of Supervised Learning 
 
