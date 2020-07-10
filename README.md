@@ -342,6 +342,19 @@ Today I learned about Machine Learning that what is Machine Learning ,why we use
 
 # Day 11 
  
- I learned about types of Machine Learning that is 
+ I learned about types of Machine Learning that is :
+ ![](/images/sl1.png)
+ 
+ 1. Supervised Learning :- Supervised learning is when the model is getting trained on a labelled dataset. Labelled dataset is one which have both input and output parameters.     In this type of learning both training and validation datasets are labelled as shown in the figures below.
+ ![](/images/sl2.png)
+ 
+ Both the above figures have labelled data set –
+
+Figure A: It is a dataset of a shopping store which is useful in predicting whether a customer will purchase a particular product under consideration or not based on his/ her gender, age and salary.
+Input : Gender, Age, Salary
+Output : Purchased i.e. 0 or 1 ; 1 means yes the customer will purchase and 0 means that customer won’t purchase it.
+Figure B: It is a Meteorological dataset which serves the purpose of predicting wind speed based on different parameters.
+Input : Dew Point, Temperature, Pressure, Relative Humidity, Wind Direction
+Output : Wind Speed
    
 # Day 12 
