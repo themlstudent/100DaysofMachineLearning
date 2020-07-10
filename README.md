@@ -384,4 +384,16 @@ Once the model is ready then it is good to be tested. At the time of testing, th
 
   ![](/images/sl3.png) 
   
+ ### Classification
+ 
+ It is a Supervised Learning task where output is having defined labels(discrete value). For example in above Figure A, Output – Purchased has defined labels i.e. 0 or 1 ; 1 means the customer will purchase and 0 means that customer won’t purchase. The goal here is to predict discrete values belonging to a particular class and evaluate on the basis of accuracy.It can be either binary or multi class classification. In binary classification, model predicts either 0 or 1 ; yes or no but in case of multi class classification, model predicts more than one class.
+ 
+Example: Gmail classifies mails in more than one classes like social, promotions, updates, forum.
+
+### Regression 
+
+It is a Supervised Learning task where output is having continuous value.
+
+Example in above Figure B, Output – Wind Speed is not having any discrete value but is continuous in the particular range. The goal here is to predict a value as much closer to actual output value as our model can and then evaluation is done by calculating error value. The smaller the error the greater the accuracy of our regression model.
+  
 # Day 12 
