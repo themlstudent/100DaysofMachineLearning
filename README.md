@@ -374,5 +374,14 @@ Figure B: It is a Meteorological dataset which serves the purpose of predicting 
 Input : Dew Point, Temperature, Pressure, Relative Humidity, Wind Direction
 
 Output : Wind Speed
-   
+
+### Training the system:
+
+While training the model, data is usually split in the ratio of 80:20 i.e. 80% as training data and rest as testing data. In training data, we feed input as well as output for 80% data. The model learns from training data only. We use different machine learning algorithms(which we will discuss in detail in the next articles) to build our model. By learning, it means that the model will build some logic of its own.
+Once the model is ready then it is good to be tested. At the time of testing, the input is fed from the remaining 20% data which the model has never seen before, the model will predict some value and we will compare it with actual output and calculate the accuracy.
+
+### Types Of Supervised Learning 
+
+  ![](/images/sl3.png) 
+  
 # Day 12 
