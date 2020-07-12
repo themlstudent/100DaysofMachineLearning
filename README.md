@@ -387,10 +387,11 @@ Example: Gmail classifies mails in more than one classes like social, promotions
 
 Regression is used to predict outputs that are continuous. The outputs are quantities that can be flexibly determined based on the inputs of the model rather than being confined to a set of possible labels.
 
-#### For example:
+### For example:
 <ul>
  <li>Predict the height of a potted plant from the amount of rainfall</li>
  <li>Predict salary based on someone’s age and availability of high-speed internet</li>
  <li>Predict a car’s MPG (miles per gallon) based on size and model year</li>
  </ul>
+ ![](/images/re.png)
 # Day 12 
