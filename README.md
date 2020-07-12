@@ -385,8 +385,12 @@ Example: Gmail classifies mails in more than one classes like social, promotions
 
 ### Regression 
 
-It is a Supervised Learning task where output is having continuous value.
+Regression is used to predict outputs that are continuous. The outputs are quantities that can be flexibly determined based on the inputs of the model rather than being confined to a set of possible labels.
 
-Example in above Figure B, Output – Wind Speed is not having any discrete value but is continuous in the particular range. The goal here is to predict a value as much closer to actual output value as our model can and then evaluation is done by calculating error value. The smaller the error the greater the accuracy of our regression model.
-  
+#### For example:
+<ul>
+ <li>Predict the height of a potted plant from the amount of rainfall</li>
+ <li>Predict salary based on someone’s age and availability of high-speed internet</li>
+ <li>Predict a car’s MPG (miles per gallon) based on size and model year</li>
+ </ul>
 # Day 12 
