@@ -363,7 +363,7 @@ Machine learning is closely related to computational statistics, which focuses o
  
  ![](/images/sl1.png)
  
-  ### Supervised Learning
+### Supervised Learning
   
    Supervised learning is when the model is getting trained on a labelled dataset. Labelled dataset is one which have both input and output parameters. 
    In this type of  learning both training and validation datasets are labelled as shown in the figures below.
@@ -377,16 +377,22 @@ Machine learning is closely related to computational statistics, which focuses o
 
   ![](/images/sl3.png) 
   
- ### Classification
+### Classification
  
- It is a Supervised Learning task where output is having defined labels(discrete value). For example in above Figure A, Output – Purchased has defined labels i.e. 0 or 1 ; 1 means the customer will purchase and 0 means that customer won’t purchase. The goal here is to predict discrete values belonging to a particular class and evaluate on the basis of accuracy.It can be either binary or multi class classification. In binary classification, model predicts either 0 or 1 ; yes or no but in case of multi class classification, model predicts more than one class.
+ Classification is used to predict a discrete label. The outputs fall under a finite set of possible outcomes. Many situations have only two possible outcomes. This is called binary classification (True/False, 0 or 1, Hotdog / not Hotdog).
+
+### For example:
+<ul>
+ <li>Predict whether an email is spam or not</li>
+ <li>Predict whether it will rain or not</li>
+ <li>Predict whether a user is a power user or a casual user</li>
+ </ul>
  
-Example: Gmail classifies mails in more than one classes like social, promotions, updates, forum.
+Multi-label classification is when there are multiple possible outcomes. It is useful for customer segmentation, image categorization, and sentiment analysis for understanding text. To perform these classifications, we use models like Naive Bayes, K-Nearest Neighbors, and SVMs.
 
 ### Regression 
 
 Regression is used to predict outputs that are continuous. The outputs are quantities that can be flexibly determined based on the inputs of the model rather than being confined to a set of possible labels.
-
 ### For example:
 <ul>
  <li>Predict the height of a potted plant from the amount of rainfall</li>
@@ -394,4 +400,5 @@ Regression is used to predict outputs that are continuous. The outputs are quant
  <li>Predict a car’s MPG (miles per gallon) based on size and model year</li>
  </ul>
  ![](/images/re.png)
+ 
 # Day 12 
