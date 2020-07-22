@@ -1,9 +1,9 @@
-# 100 Days of Machine Learning
+# 100 Days of Machine Learning:-
 ![](/images/ml.png)
 
 # Day 1 
 
-### Basic of Python:
+### Basic of Python
 
 ![](/images/Py.png)
 
