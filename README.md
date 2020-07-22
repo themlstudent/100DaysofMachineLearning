@@ -3,7 +3,7 @@
 
 # Day 1 
 
-### Basic of Python
+### Basic of Python:
 
 ![](/images/Py.png)
 
