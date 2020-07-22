@@ -1,4 +1,4 @@
-# 100 Days of Machine Learning:
+# 100 Days of Machine Learning
 ![](/images/ml.png)
 
 # Day 1 
