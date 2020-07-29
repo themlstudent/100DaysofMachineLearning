@@ -405,6 +405,10 @@ Regression is used to predict outputs that are continuous. The outputs are quant
  <li>Predict a car’s MPG (miles per gallon) based on size and model year</li>
  </ul>
  
+ ## Day 12 
+ 
+ I stared Learning about Regression.
+ 
 
  
 
