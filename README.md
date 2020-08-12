@@ -1,9 +1,6 @@
 # 100 Days of Machine Learning
 
 
-
-![](/images/mll2.png)
-
 # Day 1 
 
 ![](/images/ppy.png)
