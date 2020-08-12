@@ -330,7 +330,7 @@ Machine learning is closely related to computational statistics, which focuses o
  
  ![](/images/sl1.png)
  
-### Supervised Learning
+# Supervised Learning
   
    Supervised learning is when the model is getting trained on a labelled dataset. Labelled dataset is one which have both input and output parameters. 
    In this type of  learning both training and validation datasets are labelled as shown in the figures below.
@@ -354,7 +354,7 @@ Machine learning is closely related to computational statistics, which focuses o
  
 Multi-label classification is when there are multiple possible outcomes. It is useful for customer segmentation, image categorization, and sentiment analysis for understanding text. To perform these classifications, we use models like Naive Bayes, K-Nearest Neighbors, and SVMs.
 
-### Regression 
+## Regression 
 
 Regression is used to predict outputs that are continuous. The outputs are quantities that can be flexibly determined based on the inputs of the model rather than being confined to a set of possible labels.
 
@@ -365,6 +365,8 @@ Regression is used to predict outputs that are continuous. The outputs are quant
  <li>Predict salary based on someone’s age and availability of high-speed internet</li>
  <li>Predict a car’s MPG (miles per gallon) based on size and model year</li>
  </ul>
+ 
+ # 
  
  ## Day 12 
  
