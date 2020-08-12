@@ -217,26 +217,16 @@ Python with Pandas is used in a wide range of fields including academic and comm
 Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusions and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains. In today's business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively.
 
 Data mining is a particular data analysis technique that focuses on statistical modeling and knowledge discovery for predictive rather than purely descriptive purposes, while business intelligence covers data analysis that relies heavily on aggregation, focusing mainly on business information. In statistical applications, data analysis can be divided into descriptive statistics, exploratory data analysis (EDA), and confirmatory data analysis (CDA). EDA focuses on discovering new features in the data while CDA focuses on confirming or falsifying existing hypotheses. Predictive analytics focuses on application of statistical models for predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural techniques to extract and classify information from textual sources, a species of unstructured data. All of the above are varieties of data analysis.
-
-### What are examples of data analysis?
-
-#### Data analysis is a somewhat abstract concept to understand without the help of examples. So to better illustrate how and why data analysis is important for businesses, here are the 4 types of data analysis and examples of each.
-<ol>
-<li>Descriptive Analysis: Descriptive data analysis looks at past data and tells what happened. This is often used when tracking Key Performance Indicators (KPIs), revenue, sales leads, and more.</li>
-          
-<li>Diagnostic Analysis: Diagnostic data analysis aims to determine why something happened. Once your descriptive analysis shows that something negative or positive happened, diagnostic analysis can be done to figure out the reason. A business may see that leads increased in the month of October and use diagnostic analysis to determine which marketing efforts contributed the most.</li>
-
-<li>Predictive Analysis: Predictive data analysis predicts what is likely to happen in the future. In this type of research, trends are derived from past data which are then used to form predictions about the future. For example, to predict next year’s revenue, data from previous years will be analyzed. If revenue has gone up 20% every year for many years, we would predict that revenue next year will be 20% higher than this year. This is a simple example, but predictive analysis can be applied to much more complicated issues such as risk assessment, sales forecasting, or qualifying leads.</li>
-
-<li>Prescriptive Analysis: Prescriptive data analysis combines the information found from the previous 3 types of data analysis and forms a plan of action for the organization to face the issue or decision. This is where the data-driven choices are made.</li>
-</ol>   
+ 
 
 ####  I have Started Learning the book Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython Book by Wes McKinney.
 
 [Python for Data Analysis](https://www.amazon.in/Python-Data-Analysis-W-Mckinney/dp/9351100065)
 
 # Day 7
+
 ![](/images/daa.png)
+
 ### Working on Plotting Tools :
 
 Data visualization gives many insights that data alone cannot. Python has some of the most interactive data visualisation tools. The most basic plot types are shared between multiple libraries, but others are only available in certain libraries. 
