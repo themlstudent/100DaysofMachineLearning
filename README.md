@@ -348,7 +348,7 @@ Machine learning is closely related to computational statistics, which focuses o
  
  Classification is used to predict a discrete label. The outputs fall under a finite set of possible outcomes. Many situations have only two possible outcomes. This is called binary classification (True/False, 0 or 1, Hotdog / not Hotdog).
  
-![](/images/cl.png)
+
 
 ### For example:
 <ul>
@@ -363,7 +363,6 @@ Multi-label classification is when there are multiple possible outcomes. It is u
 
 Regression is used to predict outputs that are continuous. The outputs are quantities that can be flexibly determined based on the inputs of the model rather than being confined to a set of possible labels.
 
-![](/images/re.png)
 
 ### For example:
 <ul>
