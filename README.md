@@ -3,9 +3,7 @@
 
 # Day 1 
 
-## Basic of Python
-
-
+### Basic of Python
 
 Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
 
@@ -100,7 +98,7 @@ if outcome is TRUE or FALSE otherwise.
 
 Example: If Else statement       
 
-# Books to Learn Python:
+### Books to Learn Python:
 
 #### Python Books for Beginners:
 
@@ -306,7 +304,7 @@ Today I learned about Machine Learning that what is Machine Learning ,why we use
  
 ### About Machine Learning :
 
-![](/images/ML1.png)
+
 
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience.It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop conventional algorithms to perform the needed tasks.
 
@@ -330,7 +328,7 @@ Machine learning is closely related to computational statistics, which focuses o
  
  ![](/images/sl1.png)
  
-# Supervised Learning
+## Supervised Learning
   
    Supervised learning is when the model is getting trained on a labelled dataset. Labelled dataset is one which have both input and output parameters. 
    In this type of  learning both training and validation datasets are labelled as shown in the figures below.
@@ -340,7 +338,7 @@ Machine learning is closely related to computational statistics, which focuses o
 
   ![](/images/sl3.png) 
 
- ## Classification 
+ ### Classification 
  
  Classification is used to predict a discrete label. The outputs fall under a finite set of possible outcomes. Many situations have only two possible outcomes. This is called binary classification (True/False, 0 or 1, Hotdog / not Hotdog).
 
@@ -354,7 +352,7 @@ Machine learning is closely related to computational statistics, which focuses o
  
 Multi-label classification is when there are multiple possible outcomes. It is useful for customer segmentation, image categorization, and sentiment analysis for understanding text. To perform these classifications, we use models like Naive Bayes, K-Nearest Neighbors, and SVMs.
 
-## Regression 
+### Regression 
 
 Regression is used to predict outputs that are continuous. The outputs are quantities that can be flexibly determined based on the inputs of the model rather than being confined to a set of possible labels.
 
@@ -366,9 +364,9 @@ Regression is used to predict outputs that are continuous. The outputs are quant
  <li>Predict a car’s MPG (miles per gallon) based on size and model year</li>
  </ul>
  
- # 
+ ## Unsupervised Learning 
  
- ## Day 12 
+ # Day 12 
  
  I stared Learning about Regression.
  
