@@ -334,20 +334,15 @@ Machine learning is closely related to computational statistics, which focuses o
   
    Supervised learning is when the model is getting trained on a labelled dataset. Labelled dataset is one which have both input and output parameters. 
    In this type of  learning both training and validation datasets are labelled as shown in the figures below.
- 
-  ![](/images/sl4.png)
- 
-
-
+  
 
 ### Types Of Supervised Learning 
 
   ![](/images/sl3.png) 
-  
-### Classification
+
+ ## Classification 
  
  Classification is used to predict a discrete label. The outputs fall under a finite set of possible outcomes. Many situations have only two possible outcomes. This is called binary classification (True/False, 0 or 1, Hotdog / not Hotdog).
- 
 
 
 ### For example:
