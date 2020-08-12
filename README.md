@@ -176,7 +176,9 @@ It is the fundamental package for scientific computing with Python. It contains 
 
 # Day 5
 ### Working Started with Pandas Library.
+
 ![](/images/pd.png)
+
 Pandas is an open-source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures. The name Pandas is derived from the word Panel Data – an Econometrics from Multidimensional data.
 
 In 2008, developer Wes McKinney started developing pandas when in need of high performance, flexible tool for analysis of data.
