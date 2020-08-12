@@ -1,9 +1,15 @@
 # 100 Days of Machine Learning
 
 
+![](/images/mll.png)
+![](/images/mll2.png)
+
 # Day 1 
 
+![](/images/ppy.png)
+
 ### Basic of Python
+
 
 Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
 
@@ -175,7 +181,7 @@ It is the fundamental package for scientific computing with Python. It contains 
 # Day 5
 ### Working Started with Pandas Library.
 
-![](/images/pd.png)
+![](/images/pn.png)
 
 Pandas is an open-source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures. The name Pandas is derived from the word Panel Data – an Econometrics from Multidimensional data.
 
@@ -366,7 +372,12 @@ Regression is used to predict outputs that are continuous. The outputs are quant
  
  ## Unsupervised Learning 
  
+ ![](/images/un.png)
+ 
+ Unsupervised learning is a type of machine learning that looks for previously undetected patterns in a data set with no pre-existing labels and with a minimum of human supervision. In contrast to supervised learning that usually makes use of human-labeled data, unsupervised learning, also known as self-organization allows for modeling of probability densities over inputs.[1] It forms one of the three main categories of machine learning, along with supervised and reinforcement learning. Semi-supervised learning, a related variant, makes use of supervised and unsupervised techniques.
+ 
  # Day 12 
+ 
  
  I stared Learning about Regression.
  
