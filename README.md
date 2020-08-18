@@ -390,5 +390,7 @@ Regression Analysis is a Form of Predictive Modeling  Technique which investigat
 a dependent (Target) and independent variable(Predictor).This Technique is used for forceasting, Time Series modelling and finding the Casual Effect Relationship between variables. For Examples ,relationship between rash driving  and number of road accidents by driver is best studied through regression.
 
 
- 
+# Day 19 - 26 
+
+I stareted Learning About Mathematics Behind Machine Learning:
 
