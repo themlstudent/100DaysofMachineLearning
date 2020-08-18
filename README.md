@@ -391,6 +391,6 @@ a dependent (Target) and independent variable(Predictor).This Technique is used 
 
 
 # Day 19 - 26 
-
+![](/images/rr.png)
 I stareted Learning About Mathematics Behind Machine Learning:
 
