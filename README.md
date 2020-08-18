@@ -379,7 +379,7 @@ Regression is used to predict outputs that are continuous. The outputs are quant
 
 Reinforcement learning differs from supervised learning in not needing labelled input/output pairs be presented, and in not needing sub-optimal actions to be explicitly corrected. Instead the focus is on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
  
- # Day 12 - 16 
+ # Day 12 - 18
  
  
  I stared Learning about Regression.
