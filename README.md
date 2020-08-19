@@ -393,6 +393,11 @@ a dependent (Target) and independent variable(Predictor).This Technique is used 
 
 Regression analysis is a Important Tool for modelling and analyzing data. Here we  fit a curve / line to the data points ,in such a manner that the differences between the distances of data points from the curve or line is minimized.
 
+### Benefits of using regression Analysis:
+
+  1. It indicates the siginificant relationship between dependent variable and  independent variable.
+  
+  2. It indicates the strength of impact of multiple independent variables on a dependent variable.
 
 # Day 19 - 26 
 
