@@ -406,6 +406,8 @@ of price changes and the number of promotional Activities.Thes benfits help mark
 
 [Going Deeper into Regression Analysis with Assumptions, Plots & Solutions](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/?utm_source=courses&utm_medium=introduction_to_regression)
 
+[What’s the difference between Causality and Correlation?](https://www.analyticsvidhya.com/blog/2015/06/establish-causality-events/?utm_source=courses&utm_medium=introduction_to_regression)
+
  
 # Day 19 - 26 
 
