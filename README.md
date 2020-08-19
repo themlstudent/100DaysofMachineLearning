@@ -391,6 +391,8 @@ Reinforcement learning differs from supervised learning in not needing labelled 
 Regression Analysis is a Form of Predictive Modeling  Technique which investigates the relationship between
 a dependent (Target) and independent variable(Predictor).This Technique is used for forceasting, Time Series modelling and finding the Casual Effect Relationship between variables. For Examples ,relationship between rash driving  and number of road accidents by driver is best studied through regression.
 
+Regression analysis is a Important Tool for modelling and analyzing data. Here we  fit a curve / line to the data points ,in such a manner that the differences between the distances of data points from the curve or line is minimized.
+
 
 # Day 19 - 26 
 
