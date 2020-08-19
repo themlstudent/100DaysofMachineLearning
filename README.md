@@ -398,7 +398,10 @@ Regression analysis is a Important Tool for modelling and analyzing data. Here w
   1. It indicates the siginificant relationship between dependent variable and  independent variable.
   
   2. It indicates the strength of impact of multiple independent variables on a dependent variable.
-
+  
+Regression analysis also allows us to compare  the effects of variables measured on different scales,such as the effect 
+of price changes and the number of promotional Activities.Thes benfits help market reserchers/data analysis / data scientist to eliminate and evaluate the best set of variables to be used for bulding predictive models.
+ 
 # Day 19 - 26 
 
 I stareted Learning About Mathematics Behind Machine Learning:
