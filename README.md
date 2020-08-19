@@ -403,6 +403,7 @@ Regression analysis also allows us to compare  the effects of variables measured
 of price changes and the number of promotional Activities.Thes benfits help market reserchers/data analysis / data scientist to eliminate and evaluate the best set of variables to be used for bulding predictive models.
 
 [ Linear Regression ](https://www.analyticsvidhya.com/blog/2015/10/regression-python-beginners/)
+
 [Going Deeper into Regression Analysis with Assumptions, Plots & Solutions](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/?utm_source=courses&utm_medium=introduction_to_regression)
 
  
