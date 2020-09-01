@@ -434,3 +434,14 @@ Algorithms like SVM and KNN create a class output. For instance, in a binary cla
 Algorithms like Logistic Regression, Random Forest, Gradient Boosting, Adaboost etc. give probability outputs. Converting probability outputs to class output is just a matter of creating a threshold probability.
 
 In regression problems, we do not have such inconsistencies in output. The output is always continuous in nature and requires no further treatment.
+
+### 1. Confusion Matrix :
+
+A confusion matrix is an N X N matrix, where N is the number of classes being predicted. For the problem in hand, we have N=2, and hence we get a 2 X 2 matrix. Here are a few definitions, you need to remember for a confusion matrix :
+
+Accuracy : the proportion of the total number of predictions that were correct.
+Positive Predictive Value or Precision : the proportion of positive cases that were correctly identified.
+Negative Predictive Value : the proportion of negative cases that were correctly identified.
+Sensitivity or Recall : the proportion of actual positive cases which are correctly identified.
+Specificity : the proportion of actual negative cases which are correctly identified.
+
