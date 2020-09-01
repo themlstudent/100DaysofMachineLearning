@@ -409,7 +409,7 @@ of price changes and the number of promotional Activities.Thes benfits help mark
 [What’s the difference between Causality and Correlation?](https://www.analyticsvidhya.com/blog/2015/06/establish-causality-events/?utm_source=courses&utm_medium=introduction_to_regression)
 
  
-# Day 19 - 26 
+# Day 19 - 23
 
-I stareted Learning About Mathematics Behind Machine Learning:
+I stareted Learning About Evaluation Metrics for Machine Learning:
 
