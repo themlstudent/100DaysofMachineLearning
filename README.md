@@ -413,3 +413,8 @@ of price changes and the number of promotional Activities.Thes benfits help mark
 
 I stareted Learning About Evaluation Metrics for Machine Learning:
 
+The metrics that you choose to evaluate your machine learning algorithms are very important.
+
+Choice of metrics influences how the performance of machine learning algorithms is measured and compared. They influence how you weight the importance of different characteristics in the results and your ultimate choice of which algorithm to choose.
+
+## Classification Related Metrics
