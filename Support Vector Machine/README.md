@@ -1,3 +1,3 @@
 # Support Vector Machine
 
-![](/svm.png)
+![](/images/svm.png)
