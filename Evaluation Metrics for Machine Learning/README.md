@@ -1,2 +1,2 @@
 # Evaluation Metrics for Machine Learning
-[](/m.png)
+[](/images/m.png)
