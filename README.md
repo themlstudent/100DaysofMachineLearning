@@ -418,7 +418,7 @@ The metrics that you choose to evaluate your machine learning algorithms are ver
 Choice of metrics influences how the performance of machine learning algorithms is measured and compared. They influence how you weight the importance of different characteristics in the results and your ultimate choice of which algorithm to choose.
 
 
-[Evaluation Metrics for Machine Learning](https://github.com/themlstudent/100DaysofMachineLearning/blob/master/Evaluation%20Metrics%20for%20Machine%20Learning/README.md)
+[Evaluation Metrics for Machine Learning Complete Tutorial](https://github.com/themlstudent/100DaysofMachineLearning/blob/master/Evaluation%20Metrics%20for%20Machine%20Learning/README.md)
 
 
 
