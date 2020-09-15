@@ -23,3 +23,25 @@ Algorithms like SVM and KNN create a class output. For instance, in a binary cla
 #### Probability output: 
 
 Algorithms like Logistic Regression, Random Forest, Gradient Boosting, Adaboost etc. give probability outputs. Converting probability outputs to class output is just a matter of creating a threshold probability.
+
+Algorithms like Logistic Regression, Random Forest, Gradient Boosting, Adaboost etc. give probability outputs. Converting probability outputs to class output is just a matter of creating a threshold probability.
+
+In regression problems, we do not have such inconsistencies in output. The output is always continuous in nature and requires no further treatment.
+
+# 1. Confusion Matrix :
+
+A confusion matrix is an N X N matrix, where N is the number of classes being predicted. For the problem in hand, we have N=2, and hence we get a 2 X 2 matrix. Here are a few definitions, you need to remember for a confusion matrix :
+
+Accuracy : the proportion of the total number of predictions that were correct.
+Positive Predictive Value or Precision : the proportion of positive cases that were correctly identified.
+Negative Predictive Value : the proportion of negative cases that were correctly identified.
+Sensitivity or Recall : the proportion of actual positive cases which are correctly identified.
+Specificity : the proportion of actual negative cases which are correctly identified.
+
+![](/images/cm.png)
+
+![](/images/cm2.png)
+
+The accuracy for the problem in hand comes out to be 88%.  As you can see from the above two tables, the Positive predictive Value is high, but negative predictive value is quite low. Same holds for Sensitivity and Specificity. This is primarily driven by the threshold value we have chosen. If we decrease our threshold value, the two pairs of starkly different numbers will come closer.
+
+In general we are concerned with one of the above defined metric. For instance, in a pharmaceutical company, they will be more concerned with minimal wrong positive diagnosis. Hence, they will be more concerned about high Specificity. On the other hand an attrition model will be more concerned with Sensitivity. Confusion matrix are generally used only with class output models.
