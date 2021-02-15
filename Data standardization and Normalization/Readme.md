@@ -1,1 +1,1 @@
-# Normalization vs. Standardization
+# Normalization vs. Standardization : 
