@@ -74,3 +74,4 @@ Example: What algorithms need feature scaling
 
 ![](ff.png)
 
+Note: If an algorithm is not distance-based, feature scaling is unimportant, including Naive Bayes, Linear Discriminant Analysis, and Tree-Based models (gradient boosting, random forest, etc.).
