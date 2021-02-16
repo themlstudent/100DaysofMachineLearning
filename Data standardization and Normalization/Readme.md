@@ -64,5 +64,5 @@ However, at the end of the day, the choice of using normalization or standardiza
 
  It is a good practice to fit the scaler on the training data and then use it to transform the testing data. This would avoid any data leakage during the model testing process. Also, the scaling of target values is generally not required.                        
 
- 
+![](ff.png)
 
