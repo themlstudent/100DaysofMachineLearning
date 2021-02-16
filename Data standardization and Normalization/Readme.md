@@ -66,6 +66,7 @@ However, at the end of the day, the choice of using normalization or standardiza
  
 ## When Feature Scaling matters
 
+Some machine learning models are fundamentally based on distance matrix, also known as the distance-based classifier, for example, K-Nearest-Neighbours, SVM, and Neural Network. Feature scaling is extremely essential to those models, especially when the range of the features is very different. Otherwise, features with a large range will have a large influence in computing the distance.
 
 ![](ff.png)
 
