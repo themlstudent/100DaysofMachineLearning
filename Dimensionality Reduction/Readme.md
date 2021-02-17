@@ -18,3 +18,11 @@ I will discover a gentle introduction to dimensionality reduction for machine le
 <li>Large numbers of input features can cause poor performance for machine learning algorithms.</li>
 <li>Dimensionality reduction is a general field of study concerned with reducing the number of input features.</li>
 <li>Dimensionality reduction methods include feature selection, linear algebra methods, projection methods, and autoencoders.</li>
+
+## Problem With Many Input Variables
+
+The performance of machine learning algorithms can degrade with too many input variables.
+
+If your data is represented using rows and columns, such as in a spreadsheet, then the input variables are the columns that are fed as input to a model to predict the target variable. Input variables are also called features.
+
+We can consider the columns of data representing dimensions on an n-dimensional feature space and the rows of data as points in that space. This is a useful geometric interpretation of a dataset.
