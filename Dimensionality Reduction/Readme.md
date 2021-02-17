@@ -9,4 +9,12 @@ Dimensionality reduction refers to techniques that reduce the number of input va
 
 More input features often make a predictive modeling task more challenging to model, more generally referred to as the curse of dimensionality.
 
-High-dimensionality statistics and dimensionality reduction techniques are often used for data visualization. Nevertheless these techniques can be used in applied machine learning to simplify a classification or regression dataset in order to better fit a predictive model.
+High-dimensionality statistics and dimensionality reduction techniques are often used for data visualization. Nevertheless these techniques can be used in applied machine learning to simplify a classification or regression dataset in order to better fit a predictive model
+
+I will discover a gentle introduction to dimensionality reduction for machine learning
+
+### After reading this, you will know:
+
+<li>Large numbers of input features can cause poor performance for machine learning algorithms.</li>
+<li>Dimensionality reduction is a general field of study concerned with reducing the number of input features.</li>
+<li>Dimensionality reduction methods include feature selection, linear algebra methods, projection methods, and autoencoders.</li>
