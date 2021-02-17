@@ -66,7 +66,7 @@ There are many techniques that can be used for dimensionality reduction.
 
 In this section, we will review the main techniques.
 
-### Feature Selection Methods
+### 1.Feature Selection Methods
 Perhaps the most common are so-called feature selection techniques that use scoring or statistical methods to select which features to keep and which features to delete.
 
             perform feature selection, to remove “irrelevant” features that do not help much with the classification problem.
@@ -79,3 +79,14 @@ For more on feature selection in general, see the tutorial:
 Wrapper methods, as the name suggests, wrap a machine learning model, fitting and evaluating the model with different subsets of input features and selecting the subset the results in the best model performance. RFE is an example of a wrapper feature selection method.
 
 Filter methods use scoring methods, like correlation between the feature and the target variable, to select a subset of input features that are most predictive. Examples include Pearson’s correlation and Chi-Squared test.
+
+## 2.Matrix Factorization
+Techniques from linear algebra can be used for dimensionality reduction.
+
+Specifically, matrix factorization methods can be used to reduce a dataset matrix into its constituent parts.
+
+Examples include the eigendecomposition and singular value decomposition.
+
+A Gentle Introduction to Matrix Factorization for Machine Learning
+The parts can then be ranked and a subset of those parts can be selected that best captures the salient structure of the matrix that can be used to represent the dataset.
+
