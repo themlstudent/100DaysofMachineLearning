@@ -34,3 +34,13 @@ This can dramatically impact the performance of machine learning algorithms fit 
 Therefore, it is often desirable to reduce the number of input features.
 
 This reduces the number of dimensions of the feature space, hence the name “dimensionality reduction.”
+
+## Dimensionality Reduction
+
+Dimensionality reduction refers to techniques for reducing the number of input variables in training data.
+
+        When dealing with high dimensional data, it is often useful to reduce the dimensionality by projecting the data to a lower dimensional subspace
+                                    which captures the   “essence” of the data. This is called dimensionality reduction.
+
+
+High-dimensionality might mean hundreds, thousands, or even millions of input variables.
