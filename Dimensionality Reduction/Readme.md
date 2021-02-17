@@ -90,3 +90,22 @@ Examples include the eigendecomposition and singular value decomposition.
 A Gentle Introduction to Matrix Factorization for Machine Learning
 The parts can then be ranked and a subset of those parts can be selected that best captures the salient structure of the matrix that can be used to represent the dataset.
 
+## 3.Manifold Learning
+
+Techniques from high-dimensionality statistics can also be used for dimensionality reduction.
+
+        In mathematics, a projection is a kind of function or mapping that transforms data in some way.
+
+
+These techniques are sometimes referred to as “manifold learning” and are used to create a low-dimensional projection of high-dimensional data, often for the purposes of data visualization.
+
+The projection is designed to both create a low-dimensional representation of the dataset whilst best preserving the salient structure or relationships in the data.
+
+Examples of manifold learning techniques include:
+
+<li>Kohonen Self-Organizing Map (SOM).
+<li>Sammons Mapping
+<li>Multidimensional Scaling (MDS)
+<li>t-distributed Stochastic Neighbor Embedding (t-SNE).</li>
+
+The features in the projection often have little relationship with the original columns, e.g. they do not have column names, which can be confusing to beginners.
