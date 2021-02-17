@@ -39,8 +39,8 @@ This reduces the number of dimensions of the feature space, hence the name “di
 
 Dimensionality reduction refers to techniques for reducing the number of input variables in training data.
 
-     When dealing with high dimensional data, it is often useful to reduce the dimensionality by projecting the data to a lower dimensional subspace
-                      which captures the   “essence” of the data. This is called dimensionality reduction.
+     When dealing with high dimensional data, it is often useful to reduce the dimensionality by projecting the data to 
+     a lower dimensional subspace which captures the   “essence” of the data. This is called dimensionality reduction.
 
 
 High-dimensionality might mean hundreds, thousands, or even millions of input variables.
@@ -54,8 +54,8 @@ It is desirable to have simple models that generalize well, and in turn, input d
 
 Dimensionality reduction is a data preparation technique performed on data prior to modeling. It might be performed after data cleaning and data scaling and before training a predictive model.
 
-     dimensionality reduction yields a more compact, more easily interpretable representation of the target concept, focusing the user’s 
-                attention on the most relevant variables.
+     dimensionality reduction yields a more compact, more easily interpretable representation of the 
+     target concept, focusing the user’s attention on the most relevant variables.
 
 
 As such, any dimensionality reduction performed on training data must also be performed on new data, such as a test dataset, validation dataset, and data when making a prediction with the final model.
@@ -109,3 +109,11 @@ Examples of manifold learning techniques include:
 <li>t-distributed Stochastic Neighbor Embedding (t-SNE).</li>
 
 The features in the projection often have little relationship with the original columns, e.g. they do not have column names, which can be confusing to beginners.
+
+## Tips for Dimensionality Reduction
+
+There is no best technique for dimensionality reduction and no mapping of techniques to problems.
+
+Instead, the best approach is to use systematic controlled experiments to discover what dimensionality reduction techniques, when paired with your model of choice, result in the best performance on your dataset.
+
+Typically, linear algebra and manifold learning methods assume that all input features have the same scale or distribution. This suggests that it is good practice to either normalize or standardize data prior to using these methods if the input variables have differing scales or units.
