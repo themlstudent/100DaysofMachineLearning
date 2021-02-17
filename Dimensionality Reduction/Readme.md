@@ -49,8 +49,9 @@ Fewer input dimensions often mean correspondingly fewer parameters or a simpler 
 
 It is desirable to have simple models that generalize well, and in turn, input data with few input variables. This is particularly true for linear models where the number of inputs and the degrees of freedom of the model are often closely related.
 
-         The fundamental reason for the curse of dimensionality is that high-dimensional functions have the potential to be much more complicated than low-dimensional ones, 
-                and that those complications are harder to discern. The only way to beat the curse is to incorporate knowledge about the data that is correct.
+         The fundamental reason for the curse of dimensionality is that high-dimensional functions have the potential 
+         to be much more complicated than low-dimensional ones, and that those complications are harder to discern. 
+         The only way to beat the curse is to incorporate knowledge about the data that is correct.
 
 Dimensionality reduction is a data preparation technique performed on data prior to modeling. It might be performed after data cleaning and data scaling and before training a predictive model.
 
