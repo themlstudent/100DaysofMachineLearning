@@ -59,3 +59,23 @@ Dimensionality reduction is a data preparation technique performed on data prior
 
 
 As such, any dimensionality reduction performed on training data must also be performed on new data, such as a test dataset, validation dataset, and data when making a prediction with the final model.
+
+## Techniques for Dimensionality Reduction
+
+There are many techniques that can be used for dimensionality reduction.
+
+In this section, we will review the main techniques.
+
+### Feature Selection Methods
+Perhaps the most common are so-called feature selection techniques that use scoring or statistical methods to select which features to keep and which features to delete.
+
+            perform feature selection, to remove “irrelevant” features that do not help much with the classification problem.
+
+
+Two main classes of feature selection techniques include wrapper methods and filter methods.
+
+For more on feature selection in general, see the tutorial:
+
+Wrapper methods, as the name suggests, wrap a machine learning model, fitting and evaluating the model with different subsets of input features and selecting the subset the results in the best model performance. RFE is an example of a wrapper feature selection method.
+
+Filter methods use scoring methods, like correlation between the feature and the target variable, to select a subset of input features that are most predictive. Examples include Pearson’s correlation and Chi-Squared test.
