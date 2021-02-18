@@ -115,4 +115,6 @@ The features in the projection often have little relationship with the original 
 
 There is no best technique for dimensionality reduction and no mapping of techniques to problems.
 
+Instead, the best approach is to use systematic controlled experiments to discover what dimensionality reduction techniques, when paired with your model of choice, result in the best performance on your dataset.
+
 
