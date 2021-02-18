@@ -113,4 +113,6 @@ The features in the projection often have little relationship with the original 
 
 ## Tips for Dimensionality Reduction
 
+There is no best technique for dimensionality reduction and no mapping of techniques to problems.
+
 
