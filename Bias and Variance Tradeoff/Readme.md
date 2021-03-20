@@ -3,7 +3,7 @@ In the simplest terms, Bias is the difference between the Predicted Value and th
 
 In our model, if we use a large number of nearest neighbors, the model can totally decide that some parameters are not important at all.  For example, it can just consider that the Glusoce level and the Blood Pressure decide if the patient has diabetes. This model would make very strong assumptions about the other parameters not affecting the outcome. You can also think of it as a model predicting a simple relationship when the datapoints clearly indicate a more complex relationship:
 
-                       ![](images/underfit.png)
+ ![](images/underfit.png)
 Mathematically, let the input variables be X and a target variable Y. We map the relationship between the two using a function f.
 
 Therefore,
@@ -25,3 +25,16 @@ Mathematically, the variance error in the model is:
                                Variance[f(x))=E[X^2]−E[X]^2
 
 Since in the case of high variance, the model learns too much from the training data, it is called overfitting.
+
+In the context of our data, if we use very few nearest neighbors, it is like saying that if the number of pregnancies is more than 3, the glucose level is more than 78, Diastolic BP is less than 98, Skin thickness is less than 23 mm and so on for every feature….. decide that the patient has diabetes. All the other patients who don’t meet the above criteria are not diabetic. While this may be true for one particular patient in the training set, what if these parameters are the outliers or were even recorded incorrectly? Clearly, such a model could prove to be very costly!
+
+Additionally, this model would have a high variance error because the predictions of the patient being diabetic or not vary greatly with the kind of training data we are providing it. So even changing the Glucose Level to 75 would result in the model predicting that the patient does not have diabetes.
+
+To make it simpler, the model predicts very complex relationships between the outcome and the input features when a quadratic equation would have sufficed. This is how a classification model would look like when there is a high variance error/when there is overfitting:
+![](images/overfit.png)
+
+### To summarise,
+
+<li>A model with a high bias error underfits data and makes very simplistic assumptions on it
+<li>A model with a high variance error overfits the data and learns too much from it
+<li>A good model is where both Bias and Variance errors are balanced
