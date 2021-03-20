@@ -51,3 +51,40 @@ On the other hand, for higher values of k, many more points closer to the datapo
 To achieve a balance between the Bias error and the Variance error, we need a value of k such that the model neither learns from the noise (overfit on data) nor makes sweeping assumptions on the data(underfit on data). To keep it simpler, a balanced model would look like this:
 
 ![](images/balanced.png)
+
+Though some points are classified incorrectly, the model generally fits most of the datapoints accurately. The balance between the Bias error and the Variance error is the Bias-Variance Tradeoff.
+
+The following bulls-eye diagram explains the tradeoff better:
+
+![](images/bias.png)
+
+The center i.e. the bull’s eye is the model result we want to achieve that perfectly predicts all the values correctly. As we move away from the bull’s eye, our model starts to make more and more wrong predictions.
+
+A model with low bias and high variance predicts points that are around the center generally, but pretty far away from each other. A model with high bias and low variance is pretty far away from the bull’s eye, but since the variance is low, the predicted points are closer to each other.
+
+In terms of model complexity, we can use the following diagram to decide on the optimal complexity of our model.
+![](images/over.png)
+
+So, what do you think is the optimum value for k?
+
+From the above explanation, we can conclude that the k for which
+
+<li>the testing score is the highest, and
+<li>both the test score and the training score are close to each other
+
+    
+    is the optimal value of k. So, even though we are compromising on a lower training score, we still get a high score for our testing data which is more crucial – the test data is after all unknown data.
+
+Let us make a table for different values of k to further prove this:
+
+![](images/k.png)
+
+## Conclusion
+To summarize, in this article, we learned that an ideal model would be one where both the bias error and the variance error are low. However, we should always aim for a model where the model score for the training data is as close as possible to the model score for the testing data.
+
+That’s where we figured out how to choose a model that is not too complex (High variance and low bias) which would lead to overfitting and nor too simple(High Bias and low variance) which would lead to underfitting.
+
+Bias and Variance plays an important role in deciding which predictive model to use. I hope this article explained the concept well.
+
+## Low Bias and High Variance :Overfitting 
+## High Bias and High Variance:Undefitting
