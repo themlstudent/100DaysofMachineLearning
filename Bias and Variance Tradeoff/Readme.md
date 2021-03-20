@@ -38,3 +38,16 @@ To make it simpler, the model predicts very complex relationships between the ou
 <li>A model with a high bias error underfits data and makes very simplistic assumptions on it
 <li>A model with a high variance error overfits the data and learns too much from it
 <li>A good model is where both Bias and Variance errors are balanced
+
+## Bias-Variance Tradeoff
+How do we relate the above concepts to our Knn model from earlier? Let’s find out!
+
+In our model, say, for, k = 1, the point closest to the datapoint in question will be considered. Here, the prediction might be accurate for that particular data point so the bias error will be less.
+
+However, the variance error will be high since only the one nearest point is considered and this doesn’t take into account the other possible points. What scenario do you think this corresponds to? Yes, you are thinking right, this means that our model is overfitting.
+
+On the other hand, for higher values of k, many more points closer to the datapoint in question will be considered. This would result in higher bias error  and underfitting since many points closer to the datapoint are considered and thus it can’t learn the specifics from the training set. However, we can account for a lower variance error for the testing set which has unknown values.
+
+To achieve a balance between the Bias error and the Variance error, we need a value of k such that the model neither learns from the noise (overfit on data) nor makes sweeping assumptions on the data(underfit on data). To keep it simpler, a balanced model would look like this:
+
+![](images/balanced.png)
