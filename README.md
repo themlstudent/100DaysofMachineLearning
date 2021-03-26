@@ -1,4 +1,4 @@
-# 100 Days of Machine Learning:_____
+# 100 Days of Machine Learning:____
 
 
 # Day 1 
